@@ -1,14 +1,14 @@
 # Shabu Order Online
-: Shabu Order Online is a Java command-line application that allows users to order food items from a menu and generates a receipt of the order.
+ Shabu Order Online is a Java command-line application that allows users to order food items from a menu and generates a receipt of the order.
 
 
 
 # Features
-# Users can view the menu of available food items and their prices
-# Users can select a food item and specify the quantity they want to order
-# Users can add multiple items to their order
-# Users can view their order summary and the total price
-# Users can generate a receipt of their order
+ Users can view the menu of available food items and their prices
+ Users can select a food item and specify the quantity they want to order
+ Users can add multiple items to their order
+ Users can view their order summary and the total price
+ Users can generate a receipt of their order
 
 # Installation
   Install Java SE Development Kit 8 on your computer.
@@ -27,7 +27,8 @@ Run the application using the following command:
 css
 Copy code
 java Main
-Usage
+
+# Usage
 When the application starts, the user is presented with the menu of available food items and their prices.
 The user can select a food item by entering the number corresponding to the item.
 The user is prompted to enter the desired quantity of the selected item.
